@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AngelAi/static/css/main.70e8e98c.chunk.css",
+    "main.js": "/AngelAi/static/js/main.dfb7c867.chunk.js",
+    "main.js.map": "/AngelAi/static/js/main.dfb7c867.chunk.js.map",
+    "runtime-main.js": "/AngelAi/static/js/runtime-main.950f88cc.js",
+    "runtime-main.js.map": "/AngelAi/static/js/runtime-main.950f88cc.js.map",
+    "static/js/2.0d12685f.chunk.js": "/AngelAi/static/js/2.0d12685f.chunk.js",
+    "static/js/2.0d12685f.chunk.js.map": "/AngelAi/static/js/2.0d12685f.chunk.js.map",
+    "static/js/3.04131159.chunk.js": "/AngelAi/static/js/3.04131159.chunk.js",
+    "static/js/3.04131159.chunk.js.map": "/AngelAi/static/js/3.04131159.chunk.js.map",
+    "index.html": "/AngelAi/index.html",
+    "static/css/main.70e8e98c.chunk.css.map": "/AngelAi/static/css/main.70e8e98c.chunk.css.map",
+    "static/js/2.0d12685f.chunk.js.LICENSE.txt": "/AngelAi/static/js/2.0d12685f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/AngelAi/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.950f88cc.js",
+    "static/js/2.0d12685f.chunk.js",
+    "static/css/main.70e8e98c.chunk.css",
+    "static/js/main.dfb7c867.chunk.js"
+  ]
+}
