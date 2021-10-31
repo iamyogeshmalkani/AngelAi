@@ -35,7 +35,7 @@ export default function UsersTable({users}) {
         <td>{userdata.company? userdata.company: "Not Found"}</td>
         <td>{userdata.followers}</td>
         <td>{userdata.following}</td>
-        <td><Link to={`/AngeAi/${userdata.login}`}><button type="button" class="btn btn-primary">See user</button></Link></td>
+        <td><Link to={`/AngelAi/${userdata.login}`}><button type="button" class="btn btn-primary">See user</button></Link></td>
         
         
       </tr>
