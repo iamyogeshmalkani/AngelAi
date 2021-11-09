@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AngelAi/static/css/main.70e8e98c.chunk.css",
-    "main.js": "/AngelAi/static/js/main.b7fd152c.chunk.js",
-    "main.js.map": "/AngelAi/static/js/main.b7fd152c.chunk.js.map",
+    "main.js": "/AngelAi/static/js/main.6cfcad94.chunk.js",
+    "main.js.map": "/AngelAi/static/js/main.6cfcad94.chunk.js.map",
     "runtime-main.js": "/AngelAi/static/js/runtime-main.950f88cc.js",
     "runtime-main.js.map": "/AngelAi/static/js/runtime-main.950f88cc.js.map",
     "static/js/2.0d12685f.chunk.js": "/AngelAi/static/js/2.0d12685f.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.950f88cc.js",
     "static/js/2.0d12685f.chunk.js",
     "static/css/main.70e8e98c.chunk.css",
-    "static/js/main.b7fd152c.chunk.js"
+    "static/js/main.6cfcad94.chunk.js"
   ]
 }
